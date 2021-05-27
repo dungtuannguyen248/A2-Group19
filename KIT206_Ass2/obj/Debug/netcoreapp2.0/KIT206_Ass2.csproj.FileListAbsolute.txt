@@ -1,0 +1,11 @@
+C:\Users\dangmt\source\repos\KIT206_Ass2\obj\Debug\netcoreapp2.0\KIT206_Ass2.csprojResolveAssemblyReference.cache
+C:\Users\dangmt\source\repos\KIT206_Ass2\obj\Debug\netcoreapp2.0\KIT206_Ass2.csproj.CoreCompileInputs.cache
+C:\Users\dangmt\source\repos\KIT206_Ass2\obj\Debug\netcoreapp2.0\KIT206_Ass2.AssemblyInfoInputs.cache
+C:\Users\dangmt\source\repos\KIT206_Ass2\obj\Debug\netcoreapp2.0\KIT206_Ass2.AssemblyInfo.cs
+C:\Users\dangmt\source\repos\KIT206_Ass2\bin\Debug\netcoreapp2.0\KIT206_Ass2.deps.json
+C:\Users\dangmt\source\repos\KIT206_Ass2\bin\Debug\netcoreapp2.0\KIT206_Ass2.runtimeconfig.json
+C:\Users\dangmt\source\repos\KIT206_Ass2\bin\Debug\netcoreapp2.0\KIT206_Ass2.runtimeconfig.dev.json
+C:\Users\dangmt\source\repos\KIT206_Ass2\bin\Debug\netcoreapp2.0\KIT206_Ass2.dll
+C:\Users\dangmt\source\repos\KIT206_Ass2\bin\Debug\netcoreapp2.0\KIT206_Ass2.pdb
+C:\Users\dangmt\source\repos\KIT206_Ass2\obj\Debug\netcoreapp2.0\KIT206_Ass2.dll
+C:\Users\dangmt\source\repos\KIT206_Ass2\obj\Debug\netcoreapp2.0\KIT206_Ass2.pdb
